@@ -1,0 +1,2 @@
+# No third-party dependencies: standard library only (urllib, sqlite3, csv, json).
+# Listed here so `pip install -r requirements.txt` does not fail in CI.
